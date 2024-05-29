@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="gyromite-java:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/gyromite_java_jar</output-path>
+    <root id="archive" name="gyromite-java.jar">
+      <element id="module-output" name="gyromite-java" />
+    </root>
+  </artifact>
+</component>
